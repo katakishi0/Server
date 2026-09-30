@@ -1,6 +1,6 @@
 {
   "api": "https://lot-canberra-pointing-produced.trycloudflare.com",
   "enabled": true,
-  "maintenance": true,
-  "displayVersion": "1.0.1"
+  "maintenance": false,
+  "displayVersion": "1.0.0"
 }
